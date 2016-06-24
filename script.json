@@ -1,9 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the bot of Aievo, a Software Business Development Training Courses.!\nWant to know more about bots or learn about Aievo? %[What is Aievo](postback:what_is_aievo) %[Ask questions to Aievo](postback:ask_aievo)",
-    "HELLO": "Hi there, I'm Aievo!\n What can I help you?\n %[Software development](postback: software_develop) %[Business Startup](postback: business_startup",
-    "WHAT IS AIEVO": "Hey, I'm so glad to see you here!\n AIEVO is a personal training course to help you develop software business. %[Tell me more...](postback:tell_me_more)",
-    "ASK AIEVO": "I'm Aievo bot!\n What can I help you?\n %[Software development](postback: software_develop) %[Business Startup](postback: business_startup",
-    "TELL ME MORE": "What do you want to know?\n %[Software development](postback: software_develop) %[Business Startup](postback: business_startup",
+    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, AievoBot is back."
+    "DISCONNECT": "Roger that, EstherBot is back."
 }
