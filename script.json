@@ -1,9 +1,9 @@
 {
     "HELLO": "Hi there!\nI’m the bot of Aievo, a Software Business Development Training Courses.!\nWant to know more about Aievo?\n %[What is Aievo](postback:what_is_aievo) %[Ask Aievo](postback:ask_aievo)",
     "WHAT IS AIEVO": "Hey!\n AIEVO is a personal training course to help you develop software business. %[Ask Aievo](postback:ask_aievo)",
-    "ASK AIEVO": "I'm Aievo bot!\n How can I help you?\n %[Software development](postback: software_develop) %[Business Startup](postback: business_startup)",
+    "ASK AIEVO": "I'm Aievo bot!\n How can I help you?\n %[Software development](postback:software_develop) %[Business Startup](postback:business_startup)",
     "SOFTWARE DEVELOP": "About software development, you have to know what kinds of app you want to create.",
-    "BUSINESS": "About business startup, you have to decide what is your 熱情",
+    "BUSINESS STARTUP": "About business startup, you have to decide what is your 熱情",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AievoBot is back."
 }
